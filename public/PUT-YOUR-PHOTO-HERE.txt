@@ -1,0 +1,6 @@
+Place your profile photo in this public folder and name it:
+
+faiyaz.jpg
+
+The website uses this path:
+/faiyaz.jpg
